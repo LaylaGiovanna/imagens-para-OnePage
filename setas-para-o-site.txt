@@ -1,0 +1,12 @@
+<i class="fad fa-arrow-right"></i>
+<i class="fad fa-arrow-left"></i>
+
+long arrow
+<i class="fad fa-long-arrow-right"></i>
+<i class="fad fa-long-arrow-left"></i>
+
+<i class="fas fa-chevron-right"></i>
+<i class="fas fa-chevron-left"></i>
+
+<i class="fad fa-angle-right"></i>
+<i class="fad fa-angle-left"></i>
